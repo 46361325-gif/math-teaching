@@ -42,6 +42,6 @@ Issues → New issue → 写下要做的事 → 完成后 Close issue。
 ## 注意事项
 
 - 单个文件不超过 100MB（内含大量高清图的 PPT 容易超）
-- 仓库是 Private，学生看不到源文件；通过 Pages 发布的网页除外
+- 仓库是 Public，请勿放入学生姓名、成绩等个人信息；通过 Pages 发布的网页对所有人生效
 - Word / PPT 是二进制格式，GitHub 无法逐行对比差异，但每次提交都完整保存一个版本
 # math-teaching
